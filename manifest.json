@@ -17,5 +17,10 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "platform": {
+    "r": {
+      "version": "4.1.0"
+    }
+  }
 }
